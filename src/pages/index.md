@@ -1,8 +1,6 @@
 ---
-templateKey: 'about-page'
-path: /
+templateKey: about-page
 ---
-
 ## Best dentist
 
-Site under construction
+Site under construction Little shrimpy
