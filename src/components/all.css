@@ -2,3 +2,7 @@
 @import url(sanitize.css/forms.css);
 @import url(sanitize.css/typography.css);
 @import url(sanitize.css/page.css);
+
+html {
+  background-color: #e2e2e2;
+}
