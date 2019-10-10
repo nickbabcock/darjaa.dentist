@@ -28,7 +28,7 @@
     "postcss-preset-env": "^6.7.0",
     "prop-types": "^15.6.0",
     "react": "^16.8.4",
-    "react-dom": "^16.8.4",
+    "react-dom": "^16.10.2",
     "react-error-overlay": "^5.1.6",
     "react-helmet": "^5.2.0",
     "react-hot-loader": "^4.12.6",
