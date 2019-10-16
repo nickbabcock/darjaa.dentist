@@ -3,7 +3,7 @@
   "description": "website for darjaa.dentist",
   "version": "1.0.0",
   "dependencies": {
-    "@babel/runtime": "^7.5.4",
+    "@babel/runtime": "^7.6.3",
     "gatsby": "^2.13.21",
     "gatsby-image": "^2.2.29",
     "gatsby-link": "^2.2.22",
