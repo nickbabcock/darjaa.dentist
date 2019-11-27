@@ -11,7 +11,7 @@
     "gatsby-plugin-netlify-cms": "^4.1.28",
     "gatsby-plugin-postcss": "^2.1.16",
     "gatsby-plugin-purgecss": "^4.0.1",
-    "gatsby-plugin-react-helmet": "^3.1.15",
+    "gatsby-plugin-react-helmet": "^3.1.16",
     "gatsby-plugin-sharp": "^2.3.3",
     "gatsby-react-router-scroll": "^2.1.16",
     "gatsby-remark-copy-linked-files": "^2.1.31",
