@@ -9,7 +9,7 @@
     "gatsby-link": "^2.2.24",
     "gatsby-plugin-netlify": "^2.1.26",
     "gatsby-plugin-netlify-cms": "^4.1.28",
-    "gatsby-plugin-postcss": "^2.1.15",
+    "gatsby-plugin-postcss": "^2.1.16",
     "gatsby-plugin-purgecss": "^4.0.1",
     "gatsby-plugin-react-helmet": "^3.1.15",
     "gatsby-plugin-sharp": "^2.3.3",
