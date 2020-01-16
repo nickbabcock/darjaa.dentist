@@ -22,7 +22,7 @@
     "gatsby-transformer-sharp": "^2.3.12",
     "lodash": "^4.17.15",
     "lodash-webpack-plugin": "^0.11.4",
-    "netlify-cms-app": "^2.11.3",
+    "netlify-cms-app": "^2.11.4",
     "parcel-bundler": "^1.12.4",
     "postcss-import": "^12.0.1",
     "postcss-preset-env": "^6.7.0",
