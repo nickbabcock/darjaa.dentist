@@ -31,7 +31,7 @@
     "react-dom": "^16.13.1",
     "react-error-overlay": "^6.0.7",
     "react-helmet": "^6.0.0",
-    "react-hot-loader": "^4.12.20",
+    "react-hot-loader": "^4.12.21",
     "sanitize.css": "^11.0.0",
     "uuid": "^8.0.0"
   },
