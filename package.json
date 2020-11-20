@@ -5,7 +5,7 @@
   "dependencies": {
     "@babel/runtime": "^7.12.5",
     "gatsby": "^2.24.65",
-    "gatsby-image": "^2.5.0",
+    "gatsby-image": "^2.6.0",
     "gatsby-link": "^2.5.0",
     "gatsby-plugin-netlify": "^2.5.0",
     "gatsby-plugin-netlify-cms": "^4.3.14",
