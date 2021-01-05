@@ -4,7 +4,7 @@
   "version": "1.0.0",
   "dependencies": {
     "@babel/runtime": "^7.12.5",
-    "gatsby": "^2.24.65",
+    "gatsby": "^2.29.3",
     "gatsby-image": "^2.8.0",
     "gatsby-link": "^2.8.0",
     "gatsby-plugin-netlify": "^2.8.0",
