@@ -23,7 +23,7 @@
     "lodash": "^4.17.21",
     "lodash-webpack-plugin": "^0.11.5",
     "netlify-cms-app": "^2.14.29",
-    "parcel-bundler": "^1.12.4",
+    "parcel-bundler": "^1.12.5",
     "postcss-import": "^12.0.1",
     "postcss-preset-env": "^6.7.0",
     "prop-types": "^15.7.2",
