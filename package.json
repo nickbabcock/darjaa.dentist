@@ -10,7 +10,7 @@
     "gatsby-plugin-netlify": "^2.11.1",
     "gatsby-plugin-netlify-cms": "^4.3.14",
     "gatsby-plugin-postcss": "^2.3.13",
-    "gatsby-plugin-purgecss": "^5.0.0",
+    "gatsby-plugin-purgecss": "^6.0.1",
     "gatsby-plugin-react-helmet": "^3.10.0",
     "gatsby-plugin-sharp": "^2.14.3",
     "gatsby-react-router-scroll": "^2.3.1",
